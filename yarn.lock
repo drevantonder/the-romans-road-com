@@ -287,6 +287,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource/roboto-slab@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/roboto-slab/-/roboto-slab-4.5.1.tgz#6568022e2f4d356ad64dc865bfa4dd4e3702bcfa"
+  integrity sha512-SE7R7QZNtzGfJbh8xdA8JDsTOQKJyY5EcndDssOw5tmnoxac/N2TSQSGv8GXMexhV90pQe+OoHTBVDVycdTlLg==
+
 "@humanwhocodes/config-array@^0.9.2":
   version "0.9.2"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.9.2.tgz#68be55c737023009dfc5fe245d51181bb6476914"
