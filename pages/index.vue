@@ -1,9 +1,8 @@
 <script setup lang="ts">
-const nextPage = `/1-the-human-problem`
-
-const router = useRouter()
-
-onContinue(() => router.push(nextPage))
+setPageConfig({
+  nextPage: `/1-the-human-problem`,
+  previousPage: `/`,
+})
 </script>
 
 <template>

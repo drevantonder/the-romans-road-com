@@ -1,6 +1,11 @@
 <script setup>
 const number = '1'
 const title = 'The Human Problem'
+
+setPageConfig({
+  nextPage: `/1-the-human-problem`,
+  previousPage: `/`,
+})
 </script>
 
 <template>
