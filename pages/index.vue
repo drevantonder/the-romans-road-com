@@ -11,6 +11,6 @@ setPageConfig({
     <h1 class="text-8xl text-center font-bold text-gray-900">
       The Romans Road
     </h1>
-    <p>Click to continue</p>
+    <p class="mt-16 text-gray-700 text-center italic">Click to continue</p>
   </div>
 </template>
