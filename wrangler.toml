@@ -10,7 +10,7 @@ bucket = ".output/public"
 entry-point = ".output"
 
 [build]
-command = "NITRO_PRESET=cloudflare yarn nuxt build"
+command = "NITRO_PRESET=cloudflare yarn run build"
 
 [build.upload]
 format = "service-worker"
