@@ -8,7 +8,7 @@ defineProps<Props>()
 
 <template>
   <div class="text-center">
-    <p class="text-4xl font-medium text-gray-900 leading-snug">
+    <p class="text-3xl font-medium text-gray-900 leading-snug">
       <span
         class="before:content-['“'] before:text-primary-600 after:content-['”'] after:text-primary-600"
       >
