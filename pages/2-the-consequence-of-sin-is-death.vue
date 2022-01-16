@@ -1,6 +1,6 @@
 <script setup>
 setPageConfig({
-  nextPage: `/2-the-consequence-of-sin-is-death`,
+  nextPage: `/3-there-is-hope-in-christ`,
   previousPage: `/1-the-human-problem`,
 })
 </script>
