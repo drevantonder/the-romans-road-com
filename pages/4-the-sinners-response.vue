@@ -6,9 +6,9 @@ setPageConfig({
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col">
+  <PageContainer>
     <PageTitle section="4" title="The Sinner's Response" />
-    <div class="my-auto">
+    <div class="my-auto space-y-8">
       <BibleVerse reference="Romans 10:9"
         >because, if you confess with your mouth that Jesus is Lord and believe
         in your heart that God raised him from the dead, you will be
@@ -19,5 +19,5 @@ setPageConfig({
         saved.”</BibleVerse
       >
     </div>
-  </div>
+  </PageContainer>
 </template>

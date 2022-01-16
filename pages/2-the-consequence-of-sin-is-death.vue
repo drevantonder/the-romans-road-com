@@ -6,12 +6,12 @@ setPageConfig({
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col">
+  <PageContainer>
     <PageTitle section="2" title="The Consequence of Sin is Death" />
     <div class="my-auto">
       <BibleVerse reference="Romans 6:23a"
         >For the wages of sin is death</BibleVerse
       >
     </div>
-  </div>
+  </PageContainer>
 </template>

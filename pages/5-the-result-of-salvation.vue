@@ -6,9 +6,9 @@ setPageConfig({
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col">
+  <PageContainer>
     <PageTitle section="5" title="The Result of Salvation" />
-    <div class="my-auto">
+    <div class="my-auto space-y-8">
       <BibleVerse reference="Romans 5:1"
         >Therefore, since we have been justified by faith, we have peace with
         God through our Lord Jesus Christ.</BibleVerse
@@ -18,5 +18,5 @@ setPageConfig({
         Jesus.</BibleVerse
       >
     </div>
-  </div>
+  </PageContainer>
 </template>

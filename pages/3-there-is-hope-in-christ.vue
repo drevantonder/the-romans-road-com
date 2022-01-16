@@ -6,9 +6,9 @@ setPageConfig({
 </script>
 
 <template>
-  <div class="min-h-screen flex flex-col">
+  <PageContainer>
     <PageTitle section="3" title="There is Hope in Christ" />
-    <div class="my-auto">
+    <div class="my-auto space-y-8">
       <BibleVerse reference="Romans 6:23"
         >For the wages of sin is death, but the free gift of God is eternal life
         in Christ Jesus our Lord.</BibleVerse
@@ -18,5 +18,5 @@ setPageConfig({
         Christ died for us.</BibleVerse
       >
     </div>
-  </div>
+  </PageContainer>
 </template>
