@@ -7,7 +7,7 @@ setPageConfig({
 
 <template>
   <div class="min-h-screen flex flex-col">
-    <PageTitle section="4" title="There is hope in Christ" />
+    <PageTitle section="4" title="The Sinner's Response" />
     <div class="my-auto">
       <BibleVerse reference="Romans 10:9"
         >because, if you confess with your mouth that Jesus is Lord and believe
