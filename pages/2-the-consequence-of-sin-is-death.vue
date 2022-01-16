@@ -1,16 +1,16 @@
 <script setup>
 setPageConfig({
   nextPage: `/2-the-consequence-of-sin-is-death`,
-  previousPage: `/`,
+  previousPage: `/1-the-human-problem`,
 })
 </script>
 
 <template>
   <div class="min-h-screen flex flex-col">
-    <PageTitle section="1" title="The Human Problem" />
+    <PageTitle section="2" title="The Consequence of Sin is Death" />
     <div class="my-auto">
-      <BibleVerse reference="Romans 3:23"
-        >For all have sinned and fall short of the glory of God</BibleVerse
+      <BibleVerse reference="Romans 6:23a"
+        >For the wages of sin is death</BibleVerse
       >
     </div>
   </div>
