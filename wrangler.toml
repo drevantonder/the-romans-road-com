@@ -11,7 +11,7 @@ bucket = ".output/public"
 entry-point = ".output"
 
 [build]
-command = "NITRO_PRESET=cloudflare yarn run build"
+command = "true"
 
 [build.upload]
 format = "service-worker"
