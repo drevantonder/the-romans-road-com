@@ -1,0 +1,16 @@
+name = "the-romans-road"
+type = "javascript"
+account_id = "8f668fcfb3d64d8bbef3c8895af0f67c"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = ".output/public"
+entry-point = ".output"
+
+[build]
+command = "NITRO_PRESET=cloudflare yarn nuxt build"
+
+[build.upload]
+format = "service-worker"
